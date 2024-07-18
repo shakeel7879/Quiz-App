@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital city of Tamil Nadu?",
+    "options": ["Trichy", "Coimbatore", "Chennai", "Madurai"],
+    "answer": "Chennai"
+  },
+  {
+    "id": 2,
+    "question": "What is the largest planet in our solor system?",
+    "options": ["Mercury", "Jupiter", "Saturne", "Uranus"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 3,
+    "question": "Which is the largest country in the world?",
+    "options": ["India", "China", "America", "Russia"],
+    "answer": "Russia"
+  },
+  {
+    "id": 4,
+    "question": "Which is the largest ocean in the world?",
+    "options": [
+      "Indian Ocean",
+      "Atlantic ocean",
+      "Antartic ocean",
+      "Pacific ocean"
+    ],
+    "answer": "Pacific ocean"
+  },
+  {
+    "id": 5,
+    "question": "Most populated county in the world?",
+    "options": ["India", "China", "America", "Japan"],
+    "answer": "India"
+  },
+  {
+    "id": 6,
+    "question": "What is the full abbreviation of IAS",
+    "options": [
+      "Indian Assosiation Service",
+      "Indian Administration Service",
+      "Indian Allocation Service",
+      "Indian Assosiation Security"
+    ],
+    "answer": "Indian Administration Service"
+  },
+  {
+    "id": 7,
+    "question": "Which country has most strongest milittary Army in the world?",
+    "options": ["America", "Japan", "India", "Russia"],
+    "answer": "America"
+  }
+]
